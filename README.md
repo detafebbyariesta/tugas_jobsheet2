@@ -1,6 +1,6 @@
 # tugas_jobsheet2
-
-A new Flutter project.
+output:
+![ss](https://user-images.githubusercontent.com/70737655/108299451-091e0d00-71d1-11eb-8cd2-79820357c2f2.jpg)
 
 ## Getting Started
 
